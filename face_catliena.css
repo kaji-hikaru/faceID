@@ -1,0 +1,27 @@
+.hidden {
+    display: none;
+}
+
+.position {
+    position: relative;
+}
+
+.position_love {
+    margin-top: 10px;
+}
+
+.front {
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#REG {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#LOGIN {
+    text-align: center;
+    margin-top: 50px;
+}
